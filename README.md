@@ -22,6 +22,3 @@
 
 - Stories are served from the backend API.
 - Duration for each story is set to 5 seconds, configurable via API.
-
-
-- There is a PR raised, please check that for the latest code changes
